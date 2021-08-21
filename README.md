@@ -1,5 +1,6 @@
 # Android MVI Architecture
 This repository contains a sample app that implements MVI architecture using Kotlin, ViewModel, LiveData, and etc.
+
 <img src="screenshots/banner-mvi-arch.png">
 
 ## Screenshots
